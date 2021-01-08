@@ -1,2 +1,2 @@
 # snake-game
-https://kris-almort.github.io/snake-game/
+[demo](https://chris-voitova.github.io/snake-game/)
